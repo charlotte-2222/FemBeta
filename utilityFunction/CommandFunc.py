@@ -1,3 +1,4 @@
+
 import random
 
 
@@ -11,7 +12,7 @@ def roll_str(rolls):
 
 
 # Ex. takes in 2d20 and outputs resultString = 11, 19 results = 30 numDice = 2
-def roll(rolls):
+def r(rolls):
     results = 0
     resultString = ''
     try:
